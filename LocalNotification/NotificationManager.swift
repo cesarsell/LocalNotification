@@ -67,6 +67,7 @@ class NotificationManager: NSObject {
         
     }
     
+    ///A simple comment
     
     
     
